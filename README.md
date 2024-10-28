@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hazuro</h1>
+<h1 align="center">Hi 👋, I'm Iruay</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
 - 🔭 I’m currently working on [Huro](https://discord.gg/huro)
